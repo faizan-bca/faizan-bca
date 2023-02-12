@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faizan-bca
 - 👀 I’m interested in ...Computer programming
-- 🌱 I’m currently learning ...C
+- 🌱 I’m currently learning ...C++, Java and Android Development
 - 💞️ I’m looking to collaborate on ...Android Devlopment
 - 📫 How to reach me ...mdfaizan89c@gmail.com
 
